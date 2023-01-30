@@ -1,4 +1,4 @@
-# timtam 웹사이트
+# TimTam 웹사이트
 
 ## 배포 링크
 https://icyeong.github.io/timtam
